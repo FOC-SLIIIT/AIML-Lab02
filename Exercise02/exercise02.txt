@@ -1,1 +1,25 @@
+1. Favorite LLM: GPT-4 (OpenAI)
+
+2. Model 1: Claude 2 (Anthropic)
+o	Why: Known for strong conversational abilities and safety features.
+    Model 2: Falcon 180B (TII UAE)
+o	Why: Open-weight model competing with proprietary LLMs in scalability.
+
+3. Prompts and Responses
+Prompt 1 (Creative Writing):
+•	Model: Claude 2
+•	Prompt: "Write a haiku about autumn."
+•	Response:
+                               Golden leaves descend,
+                               whispering to the cold earth—
+                               winter’s prelude sings.
+Prompt 2 (Technical):
+•	Model: Falcon 180B
+•	Prompt: "Explain quantum entanglement in simple terms."
+•	Response:
+Quantum entanglement links particles so that the state of one instantly affects the other, no matter the distance. Imagine two coins always landing on opposite sides when flipped—even if they’re light-years apart.
+
+4. Submission
+•	Models Tested: Claude 2, Falcon 180B
+•	Prompts/Responses: Included above
 
